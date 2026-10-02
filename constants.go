@@ -1,0 +1,3 @@
+package pathutils
+
+const longPathPrefix = `\\?\`
