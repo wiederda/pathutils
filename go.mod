@@ -1,3 +1,3 @@
-module gitlab.xfreibeuterx.ipv64.net/wiederda/pathutils
+module github.com/wiederda/pathutils
 
-go 1.26.1
+go 1.27.1
